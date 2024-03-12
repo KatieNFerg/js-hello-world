@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World");
+console.log(2+2);
+console.log("my");
+console.log("name");
+console.log("is");
+console.log("Katie","what is yours?");
+console.log("\"Nevermore\"");
+console.log(5+5/25);
+
 
 /*  
 Next, PLAY! 
